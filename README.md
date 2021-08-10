@@ -36,7 +36,6 @@
 
 
 <p align="center"> 
-<a href="https://www.instagram.com/reinskywalker/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="ig_reinald" height="40" width="30" /> </a>
 
   <hr><br>
   <p align="center">

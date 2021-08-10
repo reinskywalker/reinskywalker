@@ -1,16 +1,52 @@
-### Hi there 👋
+<h1 align="center">Ahh..Finally taken notice of me haven't you? </h1>
 
-<!--
-**reilzk/reilzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Status
 
-Here are some ideas to get you started:
+- IT Software Development (since: Aug 2019 ~ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Tech
+  - Core Skill
+    - Frontend
+    - Javascript
+    - Java
+    - UI Design
+    - UX Analysis
+    - Cloud Native(Firebase, GCP, AWS)
+  - Others
+    - PHP, Ruby, COBOL, Pascal, Python
+    
+- PR
+  - Community Management
+  - Technical Writing
+  - Public Relation
+  - Presentation
+
+
+
+  
+  ## Career
+- Solusi Media Data. / IT Software Development (2021 ~)
+- Contract Freelance. / Social Media Manager (2020-2021)
+- PRITECH Indonesia / IT Support Engineer (2019)
+- Puri Saron Hotel - Bali. / IT Support (2016)
+- PPM Management. / ERP Implementor, Custom Module Programmer (2016)
+
+
+
+<p align="center"> 
+<a href="https://www.instagram.com/reinskywalker/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="ig_reinald" height="40" width="30" /> </a>
+
+  <hr><br>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reilzk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=reilzk&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
+
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=reilzk&theme=juicyfresh&no-bg=false"/>

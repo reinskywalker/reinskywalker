@@ -13,12 +13,13 @@
     - Java
     - UI Design
     - UX Analysis
+    - Mobile Apps Development (Flutter, Kotlin, Java)
     - Cloud Native(Firebase, GCP, AWS)
   - Others
-    - PHP, Ruby, COBOL, Pascal, Python
-    
-- PR
-  - Community Management
+    - PHP, Ruby, COBOL, Pascal, Python, Dart
+
+- Others
+  - Communication Skills Orally and Writing
   - Technical Writing
   - Public Relation
   - Presentation

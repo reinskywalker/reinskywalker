@@ -7,32 +7,32 @@
 ## Skills
 
 - Tech
-  - Core Skill
-    - Frontend
+  - Programming Languages
     - Javascript
     - Java
-    - UI Design
-    - UX Analysis
-    - Mobile Apps Development (Flutter, Kotlin, Java)
-    - Cloud Native(Firebase, GCP, AWS)
+    - Kotlin
+    - Dart
+    - Objective - C
+    - BASIC
   - Others
-    - PHP, Ruby, COBOL, Pascal, Python, Dart
-
+    - UI Design <a href ="https://dribbble.com/reinskywalker">My UI Design Collection</a>
+    - UX Design (Low-Fidelity Prototype)
 - Others
   - Communication Skills Orally and Writing
   - Technical Writing
   - Public Relation
   - Presentation
+  - Consultant
 
 
 
   
   ## Career
-- Solusi Media Data. / IT Software Development (2021 ~)
+- Solusi Media Data. / IT Software Development (13 July 2020 - Present)
 - Contract Freelance. / Social Media Manager (2020-2021)
 - PRITECH Indonesia / IT Support Engineer (2019)
-- Puri Saron Hotel - Bali. / IT Support (2016)
-- PPM Management. / ERP Implementor, Custom Module Programmer (2016)
+- Puri Saron Hotel - Bali. / IT Support (October 2016 - December 2016)
+- PPM Management. / ERP Consultant (June 2016 - August 2016)
 
 
 

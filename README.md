@@ -15,7 +15,7 @@
     - Objective - C
     - BASIC
   - Others
-    - UI Design <a href ="https://dribbble.com/reinskywalker">My UI Design Collection</a>
+    - <a href ="https://dribbble.com/reinskywalker">UI Design</a>
     - UX Design (Low-Fidelity Prototype)
 - Others
   - Communication Skills Orally and Writing

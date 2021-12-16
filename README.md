@@ -29,7 +29,7 @@
 
   
   ## Career
-- Solusi Media Data. / IT Software Development (13 July 2020 - Present)
+- Solusi Media Data. / IT Software Development (13 July 2020 - 30 Dec 2021)
 - Contract Freelance. / Social Media Manager (2020-2021)
 - PRITECH Indonesia / IT Support Engineer (2019)
 - Puri Saron Hotel - Bali. / IT Support (October 2016 - December 2016)

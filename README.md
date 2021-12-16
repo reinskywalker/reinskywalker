@@ -2,7 +2,8 @@
 
 ## Current Status
 
-- IT Software Development (since: Aug 2019 ~ )
+- IT Software Development (since: Aug 2019 ~ Dec 2021)
+- In progress of (https://roadmap.sh/devops) , (https://roadmap.sh/frontend) , and (https://roadmap.sh/react)
 
 ## Skills
 

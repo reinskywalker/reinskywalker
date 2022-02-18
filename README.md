@@ -2,7 +2,7 @@
 
 ## Current Status
 
-- IT Software Development (since: Aug 2019 ~ Dec 2021)
+- IT Software Development & Product Developer (since: Aug 2019 ~ Feb 2022)
 - In progress of pursuing these (https://roadmap.sh/devops) , (https://roadmap.sh/frontend) and (https://roadmap.sh/react)
 
 ## Skills
@@ -13,10 +13,12 @@
     - Java
     - Kotlin
     - Dart
+    - PHP (Laravel)
     - Objective - C
     - BASIC
   - Others
-    - <a href ="https://dribbble.com/reinskywalker">UI Design</a>
+    - <a href ="https://dribbble.com/reinskywalker">UI Design Exploration</a>
+    - <a href = "https://www.behance.net/reinskywalker">UI Design and Graphic Portfolio</a>
     - UX Design (Low-Fidelity Prototype)
 - Others
   - Communication Skills Orally and Writing
@@ -26,9 +28,9 @@
   - Consultant
 
 
-
   
   ## Career
+- Cahaya Inti Andalan. / Product Developer (30 Dec 2021 - 28 Feb 2022)
 - Solusi Media Data. / IT Software Development (13 July 2020 - 30 Dec 2021)
 - Contract Freelance. / Social Media Manager (2020-2021)
 - PRITECH Indonesia / IT Support Engineer (2019)

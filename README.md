@@ -1,9 +1,9 @@
-<h1 align="center">Ahh..Finally taken notice of me haven't you? </h1>
+<h1 align="center">Finally taken notice of me haven't you? </h1>
 
 ## Current Status
 
-- IT Software Development & Product Developer (since: Aug 2019 ~ Feb 2022)
-- In progress of pursuing these (https://roadmap.sh/devops) , (https://roadmap.sh/frontend) and (https://roadmap.sh/react)
+- QA/Automation Engineer (since: Mar 2022 ~ Present)
+- In progress of pursuing these (https://roadmap.sh/devops), and (https://roadmap.sh/golang)
 
 ## Skills
 
@@ -13,9 +13,9 @@
     - Java
     - Kotlin
     - Dart
+    - Golang
     - PHP (Laravel)
-    - Objective - C
-    - BASIC
+  
   - Others
     - <a href ="https://dribbble.com/reinskywalker">UI Design Exploration</a>
     - <a href = "https://www.behance.net/reinskywalker">UI Design and Graphic Portfolio</a>
@@ -30,6 +30,7 @@
 
   
   ## Career
+- Astra Graphia IT / QA - Automation Engineer (14 March 2022 - Present)  
 - Cahaya Inti Andalan. / Product Developer (30 Dec 2021 - 28 Feb 2022)
 - Solusi Media Data. / IT Software Development (13 July 2020 - 30 Dec 2021)
 - Contract Freelance. / Social Media Manager (2020-2021)

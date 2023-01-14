@@ -12,14 +12,13 @@
     - Javascript
     - Java
     - Kotlin
-    - Dart
     - Golang
     - PHP (Laravel)
-  
+    - Python
+    
   - Others
     - <a href ="https://dribbble.com/reinskywalker">UI Design Exploration</a>
     - <a href = "https://www.behance.net/reinskywalker">UI Design and Graphic Portfolio</a>
-    - UX Design (Low-Fidelity Prototype)
 - Others
   - Communication Skills Orally and Writing
   - Technical Writing
@@ -30,12 +29,12 @@
 
   
   ## Career
-- Astra Graphia IT / QA - Automation Engineer (14 March 2022 - Present)  
-- Solusi Media Data. / IT Software Development (13 July 2020 - 28 Feb 2022)
-- Contract Freelance. / Social Media Manager (2020-2021)
-- PRITECH Indonesia / IT Support Engineer (2019)
-- Puri Saron Hotel - Bali. / IT Support (October 2016 - December 2016)
-- PPM Management. / ERP Consultant (June 2016 - August 2016)
+- Astra Graphia IT / QA - Automation Engineer (March 2022 - Present)  
+- Solusi Media Data. / Software Developer - Mobile Apps (July 2020 - Feb 2022)
+- Swiss Atelier - Zurich . / Social Media Manager (2020-2021)
+- Pritech Indonesia / IT Support Officer (2019)
+- Puri Saron Hotel - Bali. /IT Support Officer (October - December 2016)
+- PPM Management. / Junior ERP Consultant (June 2016 - August 2016)
 
 
 <p align="center"> 

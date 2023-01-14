@@ -17,11 +17,19 @@ A gentleman, an artistic endeavour and analyst type person. More than 3 years of
 <p align="center">
   <i>I'm also active in these platforms, let's get in touch!</i>
 
-<p align="center">
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/reinskywalker"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://steamcommunity.com/id/reiseclaw/"><img src="https://img.icons8.com/material-outlined/30/000000/steam.png"/></a>
+
+<div align="center">
+
+<a href="">[![Twitter](https://img.shields.io/badge/Steam-9AA6B1.svg?logo=Steam&logoColor=white)](https://steamcommunity.com/id/reiseclaw/)</a>
+<a href="">[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/reinskywalker)</a>
+<a href="">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reinskywalker)</a>
+<a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reinskywalker)</a>
   
+</div>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinskywalker&show_icons=true&border_color=777777&theme=transparent#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinskywalker&layout=compact&border_color=777777&theme=transparent#gh-dark-mode-only"/>
 </p>
 
 <p  align="center">

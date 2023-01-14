@@ -32,6 +32,14 @@ A gentleman, an artistic endeavour and analyst type person. More than 3 years of
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinskywalker&layout=compact&border_color=777777&theme=transparent#gh-dark-mode-only"/>
 </p>
 
+
+<div align="center">
+
+<a href="">[![GitHub Streak](https://streak-stats.demolab.com?user=reinskywalker&theme=dark&hide_border=true&border_radius=4.0&fire=DD22C6)](https://git.io/streak-stats)</a>
+
+</div>
+
+
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=reinskywalker.reinskywalker" alt="visitor count"/> --> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=reinskywalker.reinskywalker" alt="visitor badge"/>

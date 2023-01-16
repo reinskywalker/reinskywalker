@@ -9,7 +9,6 @@ A gentleman, an artistic endeavour and analyst type person. More than 3 years of
 - Astra Graphia IT / QA - Automation Engineer (March 2022 - Present)  
 - Solusi Media Data. / Software Developer - Mobile Apps (July 2020 - Feb 2022)
 - Swiss Atelier - Zurich . / Social Media Manager (2020-2021)
-- Pritech Indonesia / IT Support Officer (2019)
 - Puri Saron Hotel - Bali. /IT Support Officer (October - December 2016)
 - PPM Management. / Junior ERP Consultant (June 2016 - August 2016)
   

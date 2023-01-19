@@ -26,10 +26,10 @@ A gentleman, an artistic endeavour and analyst type person. More than 3 years of
   
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=reinskywalker&show_icons=true&border_color=777777&theme=transparent#gh-dark-mode-only"/>
   <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=reinskywalker&layout=compact&border_color=777777&theme=transparent#gh-dark-mode-only"/>
-</p>
+</p> -->
 
 
 <div align="center">

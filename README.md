@@ -6,7 +6,7 @@
 A gentleman, an artistic endeavour and analyst type person. More than 3 years of experience in software development companies, exposed to fast-pace Scrum-Agile environment.
 
 ## Career
-- Astra Graphia IT / QA - Automation Engineer (March 2022 - Present)  
+- Astra Graphia IT / Lead QA Automation Engineer (March 2022 - Present)  
 - Solusi Media Data. / Software Developer - Mobile Apps (July 2020 - Feb 2022)
 - Swiss Atelier - Zurich . / Social Media Manager (2020-2021)
 - Puri Saron Hotel - Bali. /IT Support Officer (October - December 2016)

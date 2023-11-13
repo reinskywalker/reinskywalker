@@ -34,8 +34,8 @@ A gentleman, an artistic endeavour and analyst type person. More than 3 years of
 
 <div align="center">
 
-<a href="https://github.com/reinskywalker"><img src="https://streak-stats.demolab.com?user=reinskywalker&theme=merko" alt="GitHub Streak" /></a>
-
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=pemudakoding&column=7&theme=gruvbox&no-frame=true"/>
 </div>
 
 

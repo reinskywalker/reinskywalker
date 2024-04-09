@@ -3,10 +3,10 @@
 
 ![](https://github.com/reinskywalker/reinskywalker/blob/main/assets/header.png)
 
-A gentleman, an artistic endeavour and analyst type person. More than 3 years of experience in software development companies, exposed to fast-pace Scrum-Agile environment.
+A gentleman, an artistic endeavour and analyst type person. More than 4 years of experience in software development companies, exposed to fast-pace Scrum-Agile environment.
 
 ## Career
-- Astra Graphia IT / Lead QA Automation Engineer (March 2022 - Present)  
+- Astra Graphia IT / Lead Software Automation Engineer (March 2022 - Present)  
 - Solusi Media Data. / Software Developer - Mobile Apps (July 2020 - Feb 2022)
 - Swiss Atelier - Zurich . / Social Media Manager (2020-2021)
 - Puri Saron Hotel - Bali. /IT Support Officer (October - December 2016)
@@ -25,13 +25,6 @@ A gentleman, an artistic endeavour and analyst type person. More than 3 years of
 <a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reinskywalker)</a>
   
 </div>
-
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=reinskywalker&show_icons=true&border_color=777777&theme=transparent#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=reinskywalker&layout=compact&border_color=777777&theme=transparent#gh-dark-mode-only"/>
-</p> -->
-
-
 <div align="center">
 
 <p align="left">
@@ -40,7 +33,6 @@ A gentleman, an artistic endeavour and analyst type person. More than 3 years of
 
 
 <p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=reinskywalker.reinskywalker" alt="visitor count"/> --> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=reinskywalker.reinskywalker" alt="visitor badge"/>
 </p>
 </p>

@@ -7,11 +7,9 @@ A gentleman, an artistic endeavour and analyst type person. More than 4 years of
 
 ## Career
 - Astera DigiLabs / Fullstack Developer (Dec 2023 - Present)
-- Astra Graphia IT / Lead Software Test Engineer (March 2022 - Present)
-- Solusi Media Data. / Software Developer - Mobile Apps (July 2020 - Feb 2022)
-- Swiss Atelier - Zurich . / Social Media Manager (2020-2021)
-- Puri Saron Hotel - Bali. /IT Support Officer (October - December 2016)
-- PPM Management. / Junior ERP Consultant (June 2016 - August 2016)
+- Astra Graphia IT / Lead Software Automation Test Engineer (March 2022 - Present)
+- Solusi Media Data. / Fullstack Developer (July 2020 - Feb 2022)
+- PPM Management. / Junior ERP Developer (June 2016 - August 2016)
   
 <hr>
 <p align="center">

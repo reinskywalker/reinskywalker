@@ -6,8 +6,8 @@
 A gentleman, an artistic endeavour and analyst type person. More than 4 years of experience in software development companies, exposed to fast-pace Scrum-Agile environment.
 
 ## Career
-- Astera DigiLabs / Fullstack Developer (Dec 2023 - Present)
-- Astra Graphia IT / Lead Software Automation Test Engineer (March 2022 - Present)
+- Astera DigiLabs / Founder & Principal Consultant (Dec 2023 - Present)
+- Astra Graphia IT / Software QA Manager (March 2022 - Present)
 - Solusi Media Data. / Fullstack Developer (July 2020 - Feb 2022)
 - PPM Management. / Junior ERP Developer (June 2016 - August 2016)
   
